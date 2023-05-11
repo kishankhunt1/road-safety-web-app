@@ -1,0 +1,97 @@
+﻿@{
+    ViewData["Title"] = "View";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model POB_AccidentModel
+
+<div class="container mt-5">
+    <h1>Accident</h1>
+    <form method="post" class="row" asp-controller="POB_Accident" asp-action="Save" enctype="multipart/form-data">
+            @Html.HiddenFor(x => x.AccidentID)
+            @Html.HiddenFor(x => x.VehicleImage)
+        <div class="col">
+            <div>
+                <input type="text" asp-for="Latitude" style="visibility:hidden" name="Latitude" class="form-control" value="" id="lat" placeholder="Latitude"/>
+                <input type="text" asp-for="Longitude" style="visibility:hidden" name="Longitude" class="form-control" value="" id="lon" placeholder="Longitude" />
+            </div>
+            <div>
+                <label for="VictimName" class="form-label">Victim Name :</label>
+                <input type="text" class="form-control" asp-for="VictimName" id="VictimName" placeholder="Enter Victim Name" autocomplete="off" />
+            </div>
+            <div>
+                <label for="NumberPlate" class="form-label">Number Plate :</label>
+                <input type="text" class="form-control" asp-for="NumberPlate" id="NumberPlate" placeholder="Enter Numberplate" autocomplete="off" />
+            </div>
+            <div>
+                <label for="file">Image :</label>
+                <input type="file" asp-for="File" class="form-control" id="file" autocomplete="off" />
+            </div>
+            <div>
+                <label for="AccidentDateTime" class="form-label">Date :</label>
+                <input type="date" class="form-control" asp-for="AccidentDateTime" id="AccidentDateTime" autocomplete="off" />
+            </div>
+            
+        </div>
+        <div class="col ml-5">
+            <div id="map" style="width: 400px; height: 400px;  border: solid black 1px;"></div>
+        </div>
+
+        <p id="location"></p>
+        <div class="mt-4">
+            <button type="submit" class="btn btn-primary" name="save">Submit</button>
+            <button type="button" class="btn btn-outline-primary">Cancel</button>
+        </div>
+    </form>
+</div>
+
+@section Scripts{
+
+    <script>
+        var la = document.getElementById("lat");
+        var lo = document.getElementById("lon");
+        var map = L.map('map').setView([22.2851369, 70.8121615], 12.34);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; crash vision'
+        }).addTo(map);
+
+        var popup = L.popup();
+
+        function onMapClick(e) {
+            popup
+                .setLatLng(e.latlng)
+                .setContent("You clicked the map at " + e.latlng.toString())
+                .openOn(map);
+
+            const inputString = e.latlng.toString();
+
+            const regex = /\(([^)]+)\)/;
+            const match = regex.exec(inputString);
+            const extractedString = match[1];
+
+            const [string1, string2] = extractedString.split(",");
+
+            la.value=string1.trim();
+            lo.value=string2.trim();
+        }
+
+        map.on('click', onMapClick);
+    </script>
+
+    <script>
+        var x = document.getElementById("location");
+        function getPreciseLocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(showExactPosition)
+            } else {
+                x.innerHTML = "Geolocation is not supported";
+            }
+        }
+        function showExactPosition(position) {
+            x.innerHTML = "Latitude: " + position.coords.latitude +
+                " br Longitude: " + position.coords.longitude;
+        }
+
+    </script>
+}

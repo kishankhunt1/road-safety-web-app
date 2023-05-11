@@ -1,0 +1,96 @@
+﻿@{
+    ViewData["Title"] = "View";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using System.Data
+@model DataTable
+
+<!-- Team Start -->
+<div class="container-fluid py-5 wow fadeInUp" data-wow-delay="0.1s">
+    <div class="container">
+        <div class="row"></div>
+        <div class="text-center mx-auto mb-5 col" style="max-width: 600px;">
+            <h5 class="text-primary text-uppercase" style="letter-spacing: 5px;">Report Accident</h5>
+            <h1 class="display-7 mb-0">Report Your Accident Here</h1>
+        </div>
+        <div class="">
+            <a class="btn btn-danger" style="float:right;" asp-controller="POB_Accident" asp-action="Add">Report Accident</a>
+        </div>
+        </div><br/><br/>
+
+        <div class="container" id="mapy"></div>
+    <div class="mt-5">
+        <table>
+        @foreach(DataRow dr in Model.Rows)
+        {   
+            <tr class="">
+                    <td class="p-3" style="width:40%;height:100%">
+                        <div class="position-relative rounded-top">
+                            <img class="~/img-fluid rounded-top w-100" src="@Url.Content(dr["VehicleImage"].ToString())" alt="">
+                            <div class="position-absolute bottom-0 end-0 d-flex flex-column bg-white p-1" style="margin-right: -25px;">
+                            </div>
+                        </div>
+            </td>
+            <td class="p-3" style="width:60%;height:100%">
+                        <div class="bg-primary text-center rounded-bottom p-4">
+                            <h1 class="text-white">@dr["VictimName"]</h1>
+                            <h1 class="text-white m-0">@dr["NumberPlate"]</h1>
+                            <h1 class="text-white">@dr["AccidentDateTime"]</h1>
+                        </div>
+            </td>
+            </tr>
+        }
+        </table>
+    </div>
+       @* @foreach(DataRow dr in Model.Rows)
+        {
+        <div class="row g-5 m-2">
+            <div class="col-md-4 wow slideInUp" data-wow-delay="0.3s">
+                <div class="position-relative rounded-top">
+                    <img class="~/img-fluid rounded-top w-100" src="@Url.Content(dr["VehicleImage"].ToString())" alt="">
+                    <div class="position-absolute bottom-0 end-0 d-flex flex-column bg-white p-1" style="margin-right: -25px;">
+                    </div>
+                </div>
+                <div class="bg-primary text-center rounded-bottom p-4">
+                    <h3 class="text-white">@dr["VictimName"]</h3>
+                    <p class="text-white m-0">@dr["NumberPlate"]</p>
+                </div>
+            </div>
+            <div class="col-md-8 wow slideInUp">
+                <div class="position-relative rounded-top">
+                    <div id="@dr["AccidentID"]"></div>
+                    <button onclick="showMap(@dr["Latitude"],@dr["Longitude"],@dr["AccidentID"])" class="btn btn-outline-primary">Click Here</button>
+                </div>
+                <div class="bg-primary text-center rounded-bottom p-4">
+                    <h1>victim name</h1>
+                </div>
+            </div>
+        </div>
+        }*@
+</div>
+<!-- Team End -->
+@section Scripts
+{
+    <script>
+
+        var element = document.getElementById("mapy");
+
+        // Height has to be set. You can do this in CSS too.
+        element.style = 'height:350px; width:650px';
+
+        // Create Leaflet map on map element.
+        var map = L.map(element).setView([22.2851369, 70.8121615], 12.34);
+
+        // Add OSM tile layer to the Leaflet map.
+        L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+    </script>
+    @foreach (DataRow dr in Model.Rows)
+    {
+        <script>
+            L.marker([@dr["Latitude"], @dr["Longitude"]]).bindPopup('@dr["VictimName"]').addTo(map);
+        </script>
+    }
+}

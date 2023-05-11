@@ -1,0 +1,1080 @@
+E:\Programming\Asp.NET\CrashVision\bin\Debug\net6.0\appsettings.Development.json
+E:\Programming\Asp.NET\CrashVision\bin\Debug\net6.0\appsettings.json
+E:\Programming\Asp.NET\CrashVision\bin\Debug\net6.0\CrashVision.staticwebassets.runtime.json
+E:\Programming\Asp.NET\CrashVision\bin\Debug\net6.0\CrashVision.exe
+E:\Programming\Asp.NET\CrashVision\bin\Debug\net6.0\CrashVision.deps.json
+E:\Programming\Asp.NET\CrashVision\bin\Debug\net6.0\CrashVision.runtimeconfig.json
+E:\Programming\Asp.NET\CrashVision\bin\Debug\net6.0\CrashVision.dll
+E:\Programming\Asp.NET\CrashVision\bin\Debug\net6.0\CrashVision.pdb
+E:\Programming\Asp.NET\CrashVision\obj\Debug\net6.0\CrashVision.csproj.AssemblyReference.cache
+E:\Programming\Asp.NET\CrashVision\obj\Debug\net6.0\CrashVision.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Asp.NET\CrashVision\obj\Debug\net6.0\CrashVision.AssemblyInfoInputs.cache
+E:\Programming\Asp.NET\CrashVision\obj\Debug\net6.0\CrashVision.AssemblyInfo.cs
+E:\Programming\Asp.NET\CrashVision\obj\Debug\net6.0\CrashVision.csproj.CoreCompileInputs.cache
+E:\Programming\Asp.NET\CrashVision\obj\Debug\net6.0\CrashVision.MvcApplicationPartsAssemblyInfo.cache
+E:\Programming\Asp.NET\CrashVision\obj\Debug\net6.0\CrashVision.RazorAssemblyInfo.cache
+E:\Programming\Asp.NET\CrashVision\obj\Debug\net6.0\CrashVision.RazorAssemblyInfo.cs
+E:\Programming\Asp.NET\CrashVision\obj\Debug\net6.0\staticwebassets.build.json
+E:\Programming\Asp.NET\CrashVision\obj\Debug\net6.0\staticwebassets.development.json
+E:\Programming\Asp.NET\CrashVision\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Programming\Asp.NET\CrashVision\obj\Debug\net6.0\scopedcss\bundle\CrashVision.styles.css
+E:\Programming\Asp.NET\CrashVision\obj\Debug\net6.0\scopedcss\projectbundle\CrashVision.bundle.scp.css
+E:\Programming\Asp.NET\CrashVision\obj\Debug\net6.0\CrashVision.dll
+E:\Programming\Asp.NET\CrashVision\obj\Debug\net6.0\refint\CrashVision.dll
+E:\Programming\Asp.NET\CrashVision\obj\Debug\net6.0\CrashVision.pdb
+E:\Programming\Asp.NET\CrashVision\obj\Debug\net6.0\CrashVision.genruntimeconfig.cache
+E:\Programming\Asp.NET\CrashVision\obj\Debug\net6.0\ref\CrashVision.dll
+C:\Users\91722\source\repos\CrashVision\obj\Debug\net6.0\CrashVision.dll
+C:\Users\91722\source\repos\CrashVision\obj\Debug\net6.0\refint\CrashVision.dll
+C:\Users\91722\source\repos\CrashVision\obj\Debug\net6.0\CrashVision.pdb
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\appsettings.json
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\CrashVision.staticwebassets.runtime.json
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\CrashVision.exe
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\CrashVision.deps.json
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\CrashVision.runtimeconfig.json
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\CrashVision.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\CrashVision.pdb
+C:\Users\91722\source\repos\CrashVision\obj\Debug\net6.0\CrashVision.csproj.AssemblyReference.cache
+C:\Users\91722\source\repos\CrashVision\obj\Debug\net6.0\CrashVision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91722\source\repos\CrashVision\obj\Debug\net6.0\CrashVision.AssemblyInfoInputs.cache
+C:\Users\91722\source\repos\CrashVision\obj\Debug\net6.0\CrashVision.AssemblyInfo.cs
+C:\Users\91722\source\repos\CrashVision\obj\Debug\net6.0\CrashVision.csproj.CoreCompileInputs.cache
+C:\Users\91722\source\repos\CrashVision\obj\Debug\net6.0\CrashVision.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\91722\source\repos\CrashVision\obj\Debug\net6.0\CrashVision.RazorAssemblyInfo.cache
+C:\Users\91722\source\repos\CrashVision\obj\Debug\net6.0\CrashVision.RazorAssemblyInfo.cs
+C:\Users\91722\source\repos\CrashVision\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\91722\source\repos\CrashVision\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\91722\source\repos\CrashVision\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\91722\source\repos\CrashVision\obj\Debug\net6.0\scopedcss\bundle\CrashVision.styles.css
+C:\Users\91722\source\repos\CrashVision\obj\Debug\net6.0\scopedcss\projectbundle\CrashVision.bundle.scp.css
+C:\Users\91722\source\repos\CrashVision\obj\Debug\net6.0\CrashVision.genruntimeconfig.cache
+C:\Users\91722\source\repos\CrashVision\obj\Debug\net6.0\ref\CrashVision.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Humanizer.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\MessagePack.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\91722\source\repos\CrashVision\obj\Debug\net6.0\CrashVision.csproj.CopyComplete
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\System.Data.Odbc.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Unity.Abstractions.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\Unity.Interception.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\91722\source\repos\CrashVision\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\appsettings.Development.json
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\appsettings.json
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\CrashVision.staticwebassets.runtime.json
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\CrashVision.exe
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\CrashVision.deps.json
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\CrashVision.runtimeconfig.json
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\CrashVision.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\CrashVision.pdb
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Humanizer.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\MessagePack.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.Build.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\NuGet.Common.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\System.Data.Odbc.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\System.Data.OleDb.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Unity.Abstractions.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\Unity.Interception.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Internet Downloads\CrashVision\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\CrashVision.csproj.AssemblyReference.cache
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\CrashVision.GeneratedMSBuildEditorConfig.editorconfig
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\CrashVision.AssemblyInfoInputs.cache
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\CrashVision.AssemblyInfo.cs
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\CrashVision.csproj.CoreCompileInputs.cache
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\CrashVision.MvcApplicationPartsAssemblyInfo.cache
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\CrashVision.RazorAssemblyInfo.cache
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\CrashVision.RazorAssemblyInfo.cs
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\staticwebassets\msbuild.CrashVision.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\staticwebassets\msbuild.build.CrashVision.props
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CrashVision.props
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CrashVision.props
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\staticwebassets.build.json
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\staticwebassets.development.json
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\scopedcss\bundle\CrashVision.styles.css
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\scopedcss\projectbundle\CrashVision.bundle.scp.css
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\CrashVision.csproj.CopyComplete
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\CrashVision.dll
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\refint\CrashVision.dll
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\CrashVision.pdb
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\CrashVision.genruntimeconfig.cache
+F:\Internet Downloads\CrashVision\obj\Debug\net6.0\ref\CrashVision.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\appsettings.Development.json
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\appsettings.json
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\CrashVision.staticwebassets.runtime.json
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\CrashVision.exe
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\CrashVision.deps.json
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\CrashVision.runtimeconfig.json
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\CrashVision.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\CrashVision.pdb
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Humanizer.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\MessagePack.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.Build.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\NuGet.Common.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\System.Data.Odbc.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\System.Data.OleDb.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Unity.Abstractions.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\Unity.Interception.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\.Net\18_TECH_TITANS\CrashVision\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\CrashVision.csproj.AssemblyReference.cache
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\CrashVision.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\CrashVision.AssemblyInfoInputs.cache
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\CrashVision.AssemblyInfo.cs
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\CrashVision.csproj.CoreCompileInputs.cache
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\CrashVision.MvcApplicationPartsAssemblyInfo.cache
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\CrashVision.RazorAssemblyInfo.cache
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\CrashVision.RazorAssemblyInfo.cs
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\staticwebassets\msbuild.CrashVision.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\staticwebassets\msbuild.build.CrashVision.props
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CrashVision.props
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CrashVision.props
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\staticwebassets.pack.json
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\staticwebassets.build.json
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\staticwebassets.development.json
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\scopedcss\bundle\CrashVision.styles.css
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\scopedcss\projectbundle\CrashVision.bundle.scp.css
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\CrashVision.csproj.CopyComplete
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\CrashVision.dll
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\refint\CrashVision.dll
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\CrashVision.pdb
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\CrashVision.genruntimeconfig.cache
+D:\.Net\18_TECH_TITANS\CrashVision\obj\Debug\net6.0\ref\CrashVision.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\appsettings.Development.json
+F:\Hackethon\CrashVision\bin\Debug\net6.0\appsettings.json
+F:\Hackethon\CrashVision\bin\Debug\net6.0\CrashVision.staticwebassets.runtime.json
+F:\Hackethon\CrashVision\bin\Debug\net6.0\CrashVision.exe
+F:\Hackethon\CrashVision\bin\Debug\net6.0\CrashVision.deps.json
+F:\Hackethon\CrashVision\bin\Debug\net6.0\CrashVision.runtimeconfig.json
+F:\Hackethon\CrashVision\bin\Debug\net6.0\CrashVision.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\CrashVision.pdb
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Humanizer.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\MessagePack.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.Build.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\NuGet.Common.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\System.Data.Odbc.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\System.Data.OleDb.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\System.Data.SqlClient.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Unity.Abstractions.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\Unity.Interception.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Hackethon\CrashVision\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Hackethon\CrashVision\obj\Debug\net6.0\CrashVision.csproj.AssemblyReference.cache
+F:\Hackethon\CrashVision\obj\Debug\net6.0\CrashVision.GeneratedMSBuildEditorConfig.editorconfig
+F:\Hackethon\CrashVision\obj\Debug\net6.0\CrashVision.AssemblyInfoInputs.cache
+F:\Hackethon\CrashVision\obj\Debug\net6.0\CrashVision.AssemblyInfo.cs
+F:\Hackethon\CrashVision\obj\Debug\net6.0\CrashVision.csproj.CoreCompileInputs.cache
+F:\Hackethon\CrashVision\obj\Debug\net6.0\CrashVision.MvcApplicationPartsAssemblyInfo.cache
+F:\Hackethon\CrashVision\obj\Debug\net6.0\CrashVision.RazorAssemblyInfo.cache
+F:\Hackethon\CrashVision\obj\Debug\net6.0\CrashVision.RazorAssemblyInfo.cs
+F:\Hackethon\CrashVision\obj\Debug\net6.0\staticwebassets.build.json
+F:\Hackethon\CrashVision\obj\Debug\net6.0\staticwebassets.development.json
+F:\Hackethon\CrashVision\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Hackethon\CrashVision\obj\Debug\net6.0\scopedcss\bundle\CrashVision.styles.css
+F:\Hackethon\CrashVision\obj\Debug\net6.0\scopedcss\projectbundle\CrashVision.bundle.scp.css
+F:\Hackethon\CrashVision\obj\Debug\net6.0\CrashVision.csproj.CopyComplete
+F:\Hackethon\CrashVision\obj\Debug\net6.0\CrashVision.dll
+F:\Hackethon\CrashVision\obj\Debug\net6.0\refint\CrashVision.dll
+F:\Hackethon\CrashVision\obj\Debug\net6.0\CrashVision.pdb
+F:\Hackethon\CrashVision\obj\Debug\net6.0\CrashVision.genruntimeconfig.cache
+F:\Hackethon\CrashVision\obj\Debug\net6.0\ref\CrashVision.dll
